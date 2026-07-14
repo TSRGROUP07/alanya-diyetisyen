@@ -1,0 +1,33 @@
+# Google Benim İşletmem (Google Haritalar) SEO Rehberi
+
+Alanya'da "Diyetisyen" yazıldığında en üstte, haritada çıkmak organik aramalarda 1. sırada olmaktan çok daha etkilidir. 
+Siteniz arka planda bu harita profili için mükemmel bir altyapı sunuyor (Schema kodları eklendi). Şimdi sıra sizin yapmanız gerekenlerde:
+
+## 1. Profil Açma ve Doğrulama
+1. https://business.google.com/ adresine gidin.
+2. İşletme adınızı tam ve net girin: "Dyt. [Adınız Soyadınız] - Alanya Diyetisyen" (İçinde 'Alanya Diyetisyen' geçmesi SEO için kritik).
+3. Adresinizi ve iletişim numaranızı web sitenizle BİREBİR AYNI olacak şekilde girin.
+4. "Web Sitesi" kısmına kesinlikle sitenizin linkini (https://www.alanyadiyetisyen.com gibi) ekleyin.
+
+## 2. Kategoriler ve Hizmetler
+- Ana kategori mutlaka "Diyetisyen" veya "Beslenme Uzmanı" olmalı.
+- "Hizmetler" sekmesine sitemizdeki başlıkları tek tek ekleyin:
+  - Sporcu Beslenmesi
+  - İnsülin Direnci ve Diyabet Beslenmesi
+  - Online Diyet
+  - Kilo Verme / Kilo Alma
+
+## 3. Görsel Gücü
+İnsanlar temizliğe, ferahlığa ve size güvenir. Profilinize şu fotoğrafları yükleyin:
+- Gülümseyen, profesyonel bir portre fotoğrafınız.
+- Kliniğinizin/Ofisinizin dışarıdan ve içeriden (özellikle bekleme salonu ve ölçüm odası) bol ışıklı, kaliteli fotoğrafları.
+- Varsa başarı hikayeleri (Öncesi/Sonrası - hastanın izniyle).
+
+## 4. Yorumların (Reviews) Önemi - EN KRİTİK MADDE!
+Haritada üste çıkmanın 1 numaralı kuralı 5 yıldızlı yorumlardır.
+- Gelen her danışanınızdan seans sonrası (mutlu oldukları anda) mutlaka Google üzerinden yorum yapmalarını rica edin.
+- Gelen yorumlara "Teşekkür ederim" demek yerine, uzun cevaplar verin. 
+  Örnek: "Sevgili Ayşe Hanım, insülin direnci diyetine gösterdiğiniz harika uyum sayesinde bu başarıyı yakaladık, sizi tebrik ederim." (Bu cevap içindeki 'insülin direnci diyeti' kelimesi bile Google'da sizi o aramada üste taşır!)
+
+## 5. Düzenli Güncelleme
+Tıpkı Instagram'a post atar gibi, ayda 1-2 kez Google Benim İşletmem paneline de kısa yazılar (Sitemizdeki blog yazılarının linkiyle beraber) veya ofisinizden yeni fotoğraflar atın. Google aktif işletmeleri hep en üste koyar.

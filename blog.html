@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sağlık Rehberi ve Blog | Alanya Diyetisyen</title>
+    <meta name="description" content="Alanya diyetisyen sağlık rehberi. Zayıflama tüyoları, aralıklı oruç, diyet tarifler ve güncel beslenme makalelerini okuyun.">
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalClinic",
+      "name": "Alanya Diyetisyen | Dyt. Alanya",
+      "url": "https://www.dytalanya.com",
+      "telephone": "+905332526620",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Alanya Merkez",
+        "addressLocality": "Alanya",
+        "addressRegion": "Antalya",
+        "postalCode": "07400",
+        "addressCountry": "TR"
+      }
+    }
+    </script>
+
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .blog-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+        .blog-card {
+            background: white;
+            border-radius: var(--radius);
+            padding: 2rem;
+            box-shadow: var(--shadow-sm);
+            transition: var(--transition);
+        }
+        .blog-card:hover {
+            box-shadow: var(--shadow-md);
+            transform: translateY(-5px);
+        }
+        .blog-card h3 {
+            font-size: 1.25rem;
+            margin-bottom: 1rem;
+            color: var(--primary-dark);
+        }
+        .read-more {
+            color: var(--primary);
+            font-weight: 600;
+            display: inline-block;
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="container nav-container">
+            <a href="index.html" class="logo">
+                <img src="LOGO.png" alt="Alanya Diyetisyen Logo">
+            </a>
+            <button class="mobile-menu-btn" aria-label="Menüyü aç">â˜°</button>
+            <nav class="nav-links">
+                <a href="index.html">Ana Sayfa</a>
+                <a href="index.html#hizmetler">Hizmetlerimiz</a>
+                <a href="blog.html">Sağlık Rehberi</a>
+                <a href="https://wa.me/905332526620" class="btn btn-primary" style="padding: 0.5rem 1.5rem;">WhatsApp'tan Ulaşın</a>
+            </nav>
+        </div>
+    </header>
+
+    <section class="page-header">
+        <div class="container">
+            <h1 style="color: var(--primary-dark);">Sağlık Rehberi</h1>
+            <p style="font-size: 1.2rem; max-width: 600px; margin: 0 auto;">Beslenme dünyasındaki en güncel bilgiler, sık sorulan sorular ve sağlıklı tarifler.</p>
+        </div>
+    </section>
+
+    <section class="section container">
+        <div class="blog-grid">
+            <!-- Article 1 -->
+            <div class="blog-card">
+                <h3>Alanya Diyetisyen Fiyatları Ne Kadar? (2026)</h3>
+                <p>Alanya'da diyetisyen seans ücretleri nasıl belirleniyor? Online ve yüz yüze diyet arasındaki fiyat farkları nelerdir? Seçim yaparken bilmeniz gerekenler.</p>
+                <a href="blog/alanya-diyetisyen-fiyatlari.html" class="read-more">Devamını Oku →</a>
+            </div>
+
+            <!-- Article 2 -->
+            <div class="blog-card">
+                <h3>Aralıklı Oruçta Kahve İçilir mi?</h3>
+                <p>Aralıklı oruç (Intermittent Fasting) yaparken açlık penceresinde filtre kahve veya Türk kahvesi içmek orucu bozar mı? İnsülin dengesi hakkında gerçekler.</p>
+                <a href="blog/aralikli-oruc.html" class="read-more">Devamını Oku →</a>
+            </div>
+
+            <!-- Article 3 -->
+            <div class="blog-card">
+                <h3>Tiroid Hastaları Nasıl Zayıflar?</h3>
+                <p>Haşimato veya hipotiroidi hastaları neden zor kilo verir? Metabolizmayı hızlandıracak ve tiroid fonksiyonlarını destekleyecek beslenme sırları.</p>
+                <a href="blog/tiroid-hastalari-nasil-zayiflar.html" class="read-more">Devamını Oku →</a>
+            </div>
+            
+            <!-- Article 4 -->
+            <div class="blog-card">
+                <h3>Alanya'da Glutensiz Beslenenler İçin Tavsiyeler</h3>
+                <p>Çölyak hastaları veya gluten hassasiyeti olanlar için Alanya'da yaşam. Hangi mekanlarda glutensiz seçenekler var? Evde glutensiz mutfak nasıl kurulur?</p>
+                <a href="blog/alanya-glutensiz-beslenme.html" class="read-more">Devamını Oku →</a>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer" style="margin-top: 0;">
+        <div class="container">
+            <div class="footer-bottom">
+                &copy; 2026 Alanya Diyetisyen. Tüm Hakları Saklıdır.
+            </div>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
