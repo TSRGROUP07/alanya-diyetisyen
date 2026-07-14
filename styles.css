@@ -459,3 +459,13 @@ p { margin-bottom: 1rem; color: var(--text-muted); }
   color: var(--text-muted);
 }
 .content-section li { margin-bottom: 0.5rem; }
+
+/* Mobile Optimizations */
+@media (max-width: 768px) {
+  .logo img {
+    height: 55px; /* Scale down logo on mobile */
+  }
+  .nav-container {
+    min-height: 70px;
+  }
+}
